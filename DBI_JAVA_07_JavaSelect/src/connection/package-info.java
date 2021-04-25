@@ -1,5 +1,5 @@
 /**
- * Dieses Package diesnt für die verbindungen zu einer Datenbank
+ * Dieses Package dient für die verbindungen zu einer Datenbank
  */
 /**
  * @author Michael Grabler

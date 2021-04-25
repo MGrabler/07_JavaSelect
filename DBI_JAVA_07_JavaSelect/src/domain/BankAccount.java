@@ -4,13 +4,13 @@ import java.time.LocalDateTime;
 
 public class BankAccount
 {
-	private Long 			accountNumber;
+	private Integer 			accountNumber;
 	private LocalDateTime 	openingDate;
 	private String 			firstname;
 	private Double 			amount;
 	private Double 			creditlimit;
 
-	public BankAccount(Long accountNumber, LocalDateTime openingDate, String firstname, Double amount, Double creditlimit)
+	public BankAccount(Integer accountNumber, LocalDateTime openingDate, String firstname, Double amount, Double creditlimit)
 	{
 		setAccountNumber(accountNumber);
 		setOpeningDate(openingDate);
@@ -24,12 +24,12 @@ public class BankAccount
 		this(null, null, firstname, amount, null);
 	}
 
-	public Long getAccountNumber()
+	public Integer getAccountNumber()
 	{
 		return accountNumber;
 	}
 
-	public void setAccountNumber(Long accountNumber)
+	public void setAccountNumber(Integer accountNumber)
 	{
 		this.accountNumber = accountNumber;
 	}
