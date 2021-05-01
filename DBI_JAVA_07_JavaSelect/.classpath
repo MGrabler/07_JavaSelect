@@ -6,6 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/Michael Grabler/git/07_JavaSelect/DBI_JAVA_07_JavaSelect/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael Grabler/Büro/Programme/Programmieren/Programme/git/Repositorys/07_JavaSelect/DBI_JAVA_07_JavaSelect/ojdbc8.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
